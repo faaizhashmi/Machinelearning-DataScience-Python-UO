@@ -1,2 +1,2 @@
 # Machinelearning-DataScience-Python-UO
-Personal Repository for the collection of all Machine Learning Projects
+Personal Repository for the collection of all Machine Learning Projects by me.
